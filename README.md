@@ -22,7 +22,7 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.tiktok.com/@jepherson_rd" target="_blank">
+  <a href="https://www.tiktok.com/@levi.ae_" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://www.instagram.com/a_dielen/" target="_blank">
