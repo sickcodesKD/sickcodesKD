@@ -110,11 +110,10 @@ const jephersonProfile
 
 <div align="center">
   <a href="https://github.com/sickcodesKD/PC-Free">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sickcodesKD&repo=macos-free&theme=radical" alt="PC-Free"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sickcodesKD&repo=macos-free&theme=radical" alt="macos-free"/>
   </a>
   <a href="https://github.com/sickcodesKD/ModerLauncher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sickcodesKD&repo=linux-docker
-&theme=radical" alt="ModerLauncher"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sickcodesKD&repo=linux-docker&theme=radical" alt="linux-docker"/>
   </a>
   <a href="https://github.com/sickcodesKD/PC-Cloud-V2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Cloud-V2&theme=radical" alt="PC-Cloud-V2"/>
