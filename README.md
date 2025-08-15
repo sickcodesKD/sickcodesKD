@@ -110,7 +110,7 @@ const jephersonProfile
 
 <div align="center">
   <a href="https://github.com/sickcodesKD/PC-Free">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=PC-Free&theme=radical" alt="PC-Free"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sickcodesKD&repo=macos-free&theme=radical" alt="PC-Free"/>
   </a>
   <a href="https://github.com/sickcodesKD/ModerLauncher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jephersonRD&repo=ModerLauncher&theme=radical" alt="ModerLauncher"/>
