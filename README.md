@@ -19,6 +19,12 @@
 
 ---
 
+👀 visitors
+
+https://count.getloli.com/@sickcodesKD?name=sickcodesKD&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+
+---
+
 ## 🌐 Connect with me
 
 <div align="center">
