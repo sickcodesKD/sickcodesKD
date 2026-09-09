@@ -21,7 +21,12 @@
 
 👀 visitors
 
-https://count.getloli.com/@sickcodesKD?name=sickcodesKD&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+<div align="center">
+
+<a href="https://count.getloli.com/@sickcodesKD?name=sickcodesKD&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor count"/>
+</a>
+
+</div>
 
 ---
 
